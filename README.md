@@ -7,5 +7,5 @@
 ### Connect with me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/xDogann) 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-C13584?style=flat-quare&labelColor=C13584&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/abdussameddogan)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-1779d4?style=flat-quare&labelColor=1779d4&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/abdussameddogan)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-d41763?style=quare&labelColor=d41763&logo=Instagram&logoColor=white&link=link)](https://twitter.com/abdussamed_dgn) 
